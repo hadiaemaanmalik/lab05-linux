@@ -1,0 +1,14 @@
+total 52
+drwxr-x--- 8 hadiaemaanmalik hadiaemaanmalik 4096 Oct 16 07:28 .
+drwxr-xr-x 3 root            root            4096 Sep 17 19:26 ..
+-rw------- 1 hadiaemaanmalik hadiaemaanmalik 1511 Oct 10 16:42 .bash_history
+-rw-r--r-- 1 hadiaemaanmalik hadiaemaanmalik  220 Feb 13  2026 .bash_logout
+-rw-r--r-- 1 hadiaemaanmalik hadiaemaanmalik 3771 Feb 13  2026 .bashrc
+drwx------ 3 hadiaemaanmalik hadiaemaanmalik 4096 Oct 10 15:27 .cache
+-rw-rw-r-- 1 hadiaemaanmalik hadiaemaanmalik  238 Oct 16 07:26 .gitconfig
+-rw-r--r-- 1 hadiaemaanmalik hadiaemaanmalik  807 Feb 13  2026 .profile
+drwx------ 2 hadiaemaanmalik hadiaemaanmalik 4096 Oct 16 07:26 .ssh
+drwxrwxr-x 3 hadiaemaanmalik hadiaemaanmalik 4096 Oct 10 15:38 Assignment01
+drwxrwxr-x 3 hadiaemaanmalik hadiaemaanmalik 4096 Oct 10 14:01 Gitea
+drwxrwxr-x 5 hadiaemaanmalik hadiaemaanmalik 4096 Oct 16 07:28 lab05-linux
+drwxrwxr-x 2 hadiaemaanmalik hadiaemaanmalik 4096 Sep 18 19:17 mylab
